@@ -1,0 +1,7 @@
+Office_friend: kamal,kamal@gmail.com,clerk,2000/08/14
+Personal: sunil,<nick-name>,sunil@gmail.com,2000/12/12
+Official: nimal,nimal@gmail.com,ceo
+Personal: Sathveegan,Sathvee,sathveegany.20@uom.lk,2000/08/14
+Official: Nisa,nisa25@gmail.com,Manager
+Office_friend: Likku,likku122@uom.lk,supervisor,2000/09/18
+Personal: Kobinarth,kobi,kobi22@gmail.com,2000/07/22
