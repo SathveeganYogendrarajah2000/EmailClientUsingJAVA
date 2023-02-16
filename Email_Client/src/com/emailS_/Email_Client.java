@@ -216,8 +216,8 @@ public class Email_Client {
     private static void sendMail(String eMailAddress, String subject, String content) throws MessagingException {
         eMail mail = new eMail(eMailAddress,subject,content);
 
-        String userName = "ysathu8@gmail.com";
-        String password ="pgqxrzkziffixlbp";
+        String userName = "temp@gmail.com";
+        String password ="temp123";
 
         Properties properties = new Properties();
         properties.put("mail.smtp.host", "smtp.gmail.com");
